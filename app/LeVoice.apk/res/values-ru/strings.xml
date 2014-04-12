@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_id_start">开始</string>
+    <string name="str_id_bus">公交车</string>
+    <string name="app_name">乐语音</string>
+    <string name="chat">请提问</string>
+    <string name="back">返回</string>
+    <string name="save">保存</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="add">添加</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="finish">完成</string>
+    <string name="about_title">关于</string>
+    <string name="about_version">乐语音 2.5 (Android) Build 0525</string>
+    <string name="about_copyright">www.lenovo.com</string>
+    <string name="about_lv">"乐语音 5.1 ( Android ) Build "</string>
+    <string name="about_lv_copyright">"
+copyright  © 2011-2014 . Lenovo
+All Rights Reserved.
+联想公司  版权所有"</string>
+    <string name="widget_call">电话</string>
+    <string name="widget_message">短信</string>
+    <string name="widget_app">应用</string>
+    <string name="widget_alarm">日程</string>
+    <string name="widget_find">查找</string>
+    <string name="widget_search">搜索</string>
+    <string name="widget_map">地图</string>
+    <string name="widget_feedback">反馈</string>
+    <string name="widget_more">更多</string>
+    <string name="widget_control">控制</string>
+    <string name="widget_hint_questions">搜索或快速记事</string>
+    <string name="search_result_from">内容来自搜狗搜索</string>
+    <string name="history_item_find">查找</string>
+    <string name="history_item_search">搜索</string>
+    <string name="find_sayCcontent">请说查找内容</string>
+    <string name="find_noResult">没有找到匹配结果</string>
+    <string name="find_someResult">找到%s个结果，请查看</string>
+    <string name="find_clickToSpeak">点击说话</string>
+    <string name="find_canNotIdentify">没有听清</string>
+    <string name="find_canNotOpen">无法打开%s</string>
+    <string name="find_netSearch">网络搜索</string>
+    <string name="contacts_notClear_voice">没有听清</string>
+    <string name="contacts_notClear_state">请说联系人</string>
+    <string name="contacts_notFind_voice">未找到%s的电话</string>
+    <string name="contacts_notFind_state">未找到“%s”的电话</string>
+    <string name="contacts_no_voice">您想查看谁的名片</string>
+    <string name="contacts_no_state">请说联系人</string>
+    <string name="contacts_one_voice">显示%s的电话，确定或取消</string>
+    <string name="contacts_one_state">显示%s的电话</string>
+    <string name="contacts_many_voice">确定查看%s的电话吗？</string>
+    <string name="contacts_many_state">找到%s个联系人，可点击联系人选择</string>
+    <string name="app_not_clear">没有听清</string>
+    <string name="app_say_name">请说应用名称。</string>
+    <string name="app_no_voice">未找到%1$s应用程序，可进行下载</string>
+    <string name="app_no_state">未找到“%1$s”，请下载</string>
+    <string name="app_one_voice">打开%1$s,确定还是取消</string>
+    <string name="app_one_state">是否要打开“%1$s”?</string>
+    <string name="app_many_voice">找到%1$s个结果，确定打开%2$s吗?</string>
+    <string name="app_many_state">有%1$s个结果，请点击应用名称选择</string>
+    <string name="app_selected_voice">打开%1$s,确定还是取消</string>
+    <string name="app_selected_state">是否要打开“%1$s”?</string>
+    <string name="app_starting_state">正在打开“%1$s”</string>
+    <string name="app_starting_voice">正在打开%1$s</string>
+    <string name="make_call">打电话</string>
+    <string name="call_say_example">"您可以这样说：
+\u0009打电话
+\u0009给小王打电话
+\u0009拨打小王的(电话/手机/号码)
+\u0009呼叫小王
+\u0009【支持拨打、确定，取消命令】"</string>
+    <string name="sms_from">来自</string>
+    <string name="send_sms">发短信</string>
+    <string name="send_sms_to">发短信给</string>
+    <string name="send_sms_say_example">"您可以这样说：
+\u0009发短信
+\u0009发短信给小王
+\u0009给小王发短信
+\u0009发短信给小王内容（是） 哥们最近过得好吗
+\u0009给小王发短信内容（是）哥们最近过得好吗
+\u0009【支持发送、确定，取消命令】"</string>
+    <string name="contact">联系人</string>
+    <string name="contact_name">联系人名字</string>
+    <string name="no_contact_show">请点击联系人名字，说联系人</string>
+    <string name="one_contact_show">联系人唯一，可以直接拨打</string>
+    <string name="select_one_from_more_contacts">有多个联系人，点击联系人名字可以选择联系人名字，点击号码可以选择号码</string>
+    <string name="unread_sms_say_example">"您可以这样说：
+\u0009未读短信
+\u0009打开发短信"</string>
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_send">发送</string>
+    <string name="button_reply">回复</string>
+    <string name="button_call_back">回拨</string>
+    <string name="button_set_readed">已读</string>
+    <string name="button_clear">清空</string>
+    <string name="sdcard_error">照片上传功能需要存储卡，请检查手机存储卡</string>
+    <string name="history_note_item_title">随身记</string>
+    <string name="history_note_item_title_state_save">记录一条语音记事</string>
+    <string name="history_note_item_title_state_share">共享给朋友</string>
+    <string name="note">记事</string>
+    <string name="no_lsf_tip">请安装联想服务框架程序</string>
+    <string name="message_top">编辑留言</string>
+    <string name="new_note">新建记事</string>
+    <string name="addtime_tvcontent">"如未提及日程时间
+请补充"</string>
+    <string name="addtime_btnaddtime">"补充
+时间"</string>
+    <string name="note_list">记事列表</string>
+    <string name="calendar">日程</string>
+    <string name="new_calendar">新建日程</string>
+    <string name="calendar_request">日程请求</string>
+    <string name="message">留言</string>
+    <string name="new_message">新建留言</string>
+    <string name="tag">标签</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="resend_to_calendar">重新发送</string>
+    <string name="add_to_calendar">加至日程</string>
+    <string name="alert_push_settings_title">温馨提示</string>
+    <string name="alert_push_settings_no_push_message_without_delay">即将开启联想信息推送服务。日程收到后，系统会自动关闭联想信息推送服务。</string>
+    <string name="alert_push_settings_no_push_message_with_delay">"即将开启联想信息推送服务，您大约将在%1$s以后才能收到日程。
+日程收到后，系统会自动关闭联想信息推送服务。"</string>
+    <string name="alert_push_settings_not_rt_message">因联想信息推送服务设置关系，您大约将在%1$s以后才能收到日程。</string>
+    <string name="alert_push_settings_with_pull_message">您%s将收到日程,请保持手机网络畅通。</string>
+    <string name="alert_button_push_setting">一键设置</string>
+    <string name="mms_with_friends">发给好友</string>
+    <string name="share">分享</string>
+    <string name="add_to_calendar_comfirm_msg">确认发给乐助理以加至日程？</string>
+    <string name="readd_to_calendar_comfirm_msg">确认重新发给乐助理？</string>
+    <string name="delete_note_comfirm_msg">确认删除此记事？</string>
+    <string name="delete_calendar_comfirm_msg">确认删除此日程请求？</string>
+    <string name="delete_message_comfirm_msg">确认删除此留言？</string>
+    <string name="note_state_sending">正在发送</string>
+    <string name="note_state_send_ok">发送成功</string>
+    <string name="note_state_send_failed">发送失败</string>
+    <string name="note_state_send_timeout">处理超时</string>
+    <string name="note_send_to_le_ass">发给乐助理</string>
+    <string name="open_system_calendar">系统日程</string>
+    <string name="note_record">录音</string>
+    <string name="note_stop_recording">点击结束录音</string>
+    <string name="note_clcik_to_record">点击录音</string>
+    <string name="note_recording">正在录音</string>
+    <string name="note_taskview_recording_welcome_title">语音记事</string>
+    <string name="note_empty_list_top_left_text">点击右上角</string>
+    <string name="note_empty_list_top_right_text">开始一个新记事</string>
+    <string name="note_empty_list_hint">您的记事内容将显示在这里</string>
+    <string name="note_cal_empty_list_top_left_text">请对已有记事点击</string>
+    <string name="note_cal_empty_list_top_right_text">发起</string>
+    <string name="note_cal_empty_list_hint">您发起的日程请求将显示在这里</string>
+    <string name="note_edit_add_pic_selector_dialog_title">添加照片</string>
+    <string name="note_edit_add_pic_selector_dialog_capture">拍照</string>
+    <string name="note_edit_add_pic_selector_dialog_photo">从图库中选择</string>
+    <string name="note_hint_input_title">标题</string>
+    <string name="note_audio_to_title">音频转标题</string>
+    <string name="note_audio_edit">音频编辑</string>
+    <string name="note_audio_edit_file_info">文件名:%1$s 大小:%2$s</string>
+    <string name="note_audio_edit_audio_file_not_found">无法找到对应文件，请检查SD卡是否已正确加载！</string>
+    <string name="note_audio_edit_audio_file_oversize">音频时间长度超过三分钟，不支持编辑！</string>
+    <string name="note_audio_edit_audio_decode_error">音频转换出错</string>
+    <string name="note_audio_edit_audio_back_comfirm_msg">音频已更改,是否保存？</string>
+    <string name="note_audio_edit_audio_save_comfirm_msg">确认保存此次音频编辑？</string>
+    <string name="note_audio_edit_audio_delete_comfirm_msg">确认删除此音频？</string>
+    <string name="sync_by_3g">3G下不同步，仅WLAN同步</string>
+    <string name="sync_by_3g_and_wifi">3G和WLAN下均执行自动同步</string>
+    <string name="note_quickrecord_lessvoice">声音太小，无法识别出标题</string>
+    <string name="note_quickrecord_addcla_content">"点击发送将会有服务人员
+为您添加到手机日程"</string>
+    <string name="note_quickrecord_sendtofriend_content">要发送给谁？</string>
+    <string name="scan_service_update_calendar">您有新日程</string>
+    <string name="note_nowireless">"您的手机没有连接网络，无法
+将音频转为标题，请先连接网络"</string>
+    <string name="note_novalidconnection">网络连接不可用</string>
+    <string name="note_prompt">提示</string>
+    <string name="modift_tag">修改标签</string>
+    <string name="resend_calendar">重新发送</string>
+    <string name="show_calendar_detail">查看详情</string>
+    <string name="forward">转发</string>
+    <string name="note_menu_delete_event">删除记事</string>
+    <string name="note_menu_delete_message">删除留言</string>
+    <string name="note_menu_sync">同步</string>
+    <string name="note_menu_settings">设置</string>
+    <string name="note_select_all">全选</string>
+    <string name="note_deselect">取消选择</string>
+    <string name="note_available_space_summary">网络空间总容量%1$.2fM，已经使用了%2$.2fM</string>
+    <string name="load_file_error">没有找到文件,可能已从SD卡上删除,请确认SD卡已正确加载！</string>
+    <string name="key_contact">lvtcontact</string>
+    <string name="key_app">lvtapp</string>
+    <string name="key_song">lvtsong</string>
+    <string name="sd_unmounted">SD卡未加载到手机</string>
+    <string name="sd_shared">SD卡处于USB模式</string>
+    <string name="sd_removed">SD卡已被移除</string>
+    <string name="sd_bad_removal">SD卡被移除，之前未卸载SD卡</string>
+    <string name="sd_nofs">SD卡为空或者不支持的SD卡格式，请检查。</string>
+    <string name="sd_disk_checking">SD卡正在进行磁盘检查，请稍候再试。</string>
+    <string name="sd_corrupted">SD卡受损，您可能需要重新格式化您的卡。</string>
+    <string name="sd_nosize">SD卡空间已满，无法继续录音</string>
+    <string name="widget_shortcut">乐语音(快捷)</string>
+    <string name="widget_note">乐语音(记事)</string>
+    <string name="service_name">Sample Recognizer</string>
+    <string name="settings_name">Voice Recognition Settings</string>
+    <string name="results_type_title">Results type</string>
+    <string name="results_type_default_value">0</string>
+    <string name="dialog_tip_open_app">"点击收音按钮说应用名
+点击应用名称手动输入"</string>
+    <string name="dialog_tip_download_app">"点击收音按钮说应用名或应用类别
+点击应用名称手动输入"</string>
+    <string name="dialog_tip_reco_app">"点击收音按钮说推荐类型（应用或游戏）
+点击应用名称选择推荐类型"</string>
+    <string name="dialog_tip_sms">"联系人选中时，点击收音按钮说联系人（仅说姓名）
+内容框选中时，点击收音按钮可说短信内容，再次点击内容框可手动修改"</string>
+    <string name="dialog_tip_transpond_sms">"直接点击联系人,选中该联系人并进入下一步
+如果联系人列表为空,可点击通讯录查找,选择联系人,并直接进入下一步"</string>
+    <string name="dialog_tip_cal">"点击收音按钮可以说“下午6点半提醒我下班”
+点击控件手动调节时间和提醒频率"</string>
+    <string name="dialog_tip_cal_year_month">点击控件手动调节提醒频率</string>
+    <string name="dialog_tip_call">"点击收音按钮说联系人（仅说姓名）
+点击人名查看更多联系人
+点击号码查看其它备选号码"</string>
+    <string name="dialog_tip_contact">"点击联系人查看更多备选
+点击收音按钮重说联系人（仅说姓名）"</string>
+    <string name="dialog_tip_search">"点击收音按钮重说搜索内容
+点击识别结果手动修改"</string>
+    <string name="dialog_tip_find">"点击收音按钮说查找内容（可查音乐，联系人和应用）
+点击识别结果手动修改
+点击“网络搜索”上网搜索"</string>
+    <string name="dialog_tip_route">"起点或终点选中时，点击收音按钮说起点或终点（仅说地点）
+手动选择不同的出行方式"</string>
+    <string name="dialog_tip_music">"点击收音按钮说名称
+点击识别结果修改名称
+点击搜索结果直接播放"</string>
+    <string name="dialog_tip_map">"点击收音按钮重说地点
+点击内容框可手动修改"</string>
+    <string name="dialog_tip_nickname">"联系人或应用名选中时，点击收音按钮说人名或应用名（仅说名称）
+内容框选中时，点击收音按钮可说昵称，再次点击内容框可手动修改"</string>
+    <string name="dialog_tip_map_near">"点击收音按钮说名称（仅说名称）
+点击内容框可手动修改"</string>
+    <string name="not_le_phone_title">提示</string>
+    <string name="not_le_phone_content">仅限联想特定机型用户使用</string>
+    <string name="wireless_has_been_opened">无线已打开</string>
+    <string name="wireless_has_been_closed">无线已关闭</string>
+    <string name="bluetooth_has_been_opened">蓝牙已打开</string>
+    <string name="bluetooth_has_been_closed">蓝牙已关闭</string>
+    <string name="mobile_network_has_been_opened">移动网络已打开</string>
+    <string name="mobile_network_has_been_closed">移动网络已关闭</string>
+    <string name="data_push_has_been_opened">推送已打开</string>
+    <string name="data_push_has_been_closed">推送已关闭</string>
+    <string name="screen_is_the_maximum_brightness">屏幕已是最大亮度</string>
+    <string name="screen_brightness">屏幕变亮</string>
+    <string name="screen_is_the_minimum_brightness">屏幕已是最小亮度</string>
+    <string name="screen_brightness_down">屏幕变暗</string>
+    <string name="airplane_mode_has_been_opened">飞行模式已打开</string>
+    <string name="airplane_mode_has_been_closed">飞行模式已关闭</string>
+    <string name="can_not_setting_wifi">飞行模式下无法进行无线设置，请更改设置后重试</string>
+    <string name="can_not_setting_gprs">飞行模式下无法进行移动网络设置，请更改设置后重试</string>
+    <string name="can_not_setting_gprs_no_sim">未检测到Sim卡，无法进行移动网络设置</string>
+    <string name="can_not_setting_bluetooth">飞行模式下无法进行蓝牙设置，请更改设置后重试</string>
+    <string name="fly_mode_is_openning">为您开启飞行模式</string>
+    <string name="fly_mode_is_closing">为您关闭飞行模式</string>
+    <string name="fly_mode_has_been_opened">飞行模式已是开启状态</string>
+    <string name="fly_mode_has_been_closed">飞行模式已是关闭状态</string>
+    <string name="wifi_is_opening">为您开启无线</string>
+    <string name="wifi_is_closing">为您关闭无线</string>
+    <string name="wifi_has_been_opened">无线已是开启状态</string>
+    <string name="wifi_has_been_closed">无线已是关闭状态</string>
+    <string name="wifi_is_disable_4_wlan_hot">热点已开启，无法设置无线状态</string>
+    <string name="bluetooth_is_opening">为您开启蓝牙</string>
+    <string name="bluetooth_is_closing">为您关闭蓝牙</string>
+    <string name="bluetooth_has_been_opened1">蓝牙已是开启状态</string>
+    <string name="bluetooth_has_been_closed1">蓝牙已是关闭状态</string>
+    <string name="gprs_is_opening">为您开启移动网络</string>
+    <string name="gprs_is_closing">为您关闭移动网络</string>
+    <string name="gprs_has_been_opened">移动网络已是开启状态</string>
+    <string name="gprs_has_been_closed">移动网络已是关闭状态</string>
+    <string name="push_is_opening">为您开启推送</string>
+    <string name="push_is_closing">为您关闭推送</string>
+    <string name="push_has_been_opened">推送已是开启状态</string>
+    <string name="push_has_been_closed">推送已是关闭状态</string>
+    <string name="screen_brightness_is_increasing">为您提高亮度</string>
+    <string name="screen_brightness_is_descreasing">为您降低亮度</string>
+    <string name="screen_brightness_is_max">已是最大亮度</string>
+    <string name="screen_brightness_is_min">已是最小亮度</string>
+    <string name="phone_profile_is_setting_standard">为您开启标准模式</string>
+    <string name="phone_profile_is_setting_silence">为您开启静音模式</string>
+    <string name="phone_profile_is_setting_vibrate">为您开启振动模式</string>
+    <string name="phone_profile_is_setting_outdoors">为您开启户外模式</string>
+    <string name="phone_profile_is_standard">已是标准模式</string>
+    <string name="phone_profile_is_silence">已是静音模式</string>
+    <string name="phone_profile_is_vibrate">已是振动模式</string>
+    <string name="phone_profile_is_outdoors">已是户外模式</string>
+    <string name="unsupport_phone_profile">该手机型号不支持设置情景模式</string>
+    <string name="sms_sim_disabled">短信主卡不可用</string>
+    <string name="sms_sim_select_tip">请选择SIM卡</string>
+    <string name="network_operator_name_cmcc">中国移动</string>
+    <string name="network_operator_name_unicom">中国联通</string>
+    <string name="network_operator_name_ctc">中国电信</string>
+    <string name="network_operator_name_unknown">未知</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Open WLAN please!</string>
+    <string name="SUS_MSG_LATESTVERSION">The version is current!</string>
+    <string name="SUS_MSG_NOTFOUND">No updates!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Network not available!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Currently updating!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download finished!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Update failed. Please try again!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Don’t prompt</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Prompt when new version found</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Insufficient storage!</string>
+    <string name="SUS_VERSIONUPDATE">New version found!</string>
+    <string name="SUS_UPDATEDESC">Description:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Size:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN recommended for download!</string>
+    <string name="SUS_UPDATE">Update</string>
+    <string name="SUS_CANCEL">Later</string>
+    <string name="SUS_DOWNLOAD_TITLE">Voice downloading</string>
+    <string name="SUS_CANCELBUTTON">Cancel</string>
+    <string name="SUS_NOTIFICATION_TITLE">Prompt</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Updating… Please wait!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Network timeout. Trying again...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">I know</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abort</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(This window will hide after</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Please tap to install!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Please tap to install:</string>
+    <string name="system_setting_wifi">WLAN/无线</string>
+    <string name="system_setting_bluetooth">蓝牙</string>
+    <string name="system_setting_gprs">移动网络</string>
+    <string name="system_setting_push">推送</string>
+    <string name="system_setting_brightness">调节亮度</string>
+    <string name="system_setting_fly_mode">飞行模式</string>
+    <string name="system_setting_phone_profile">情景模式</string>
+</resources>

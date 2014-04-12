@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips_array">
+        <item>"山寨应用很危险
+用屠隆刀扫描下吧"</item>
+        <item>"设置“WLAN智能更新”
+保持应用最新版本"</item>
+        <item>"省流量更新应用
+可节省92%的流量"</item>
+        <item>"不想更新的应用
+可以忽略更新哟"</item>
+        <item>"乐商店游戏专区
+海量礼包等你来拿"</item>
+    </string-array>
+    <string-array name="ratings">
+        <item>这个应用不行，还得多加加油呀！</item>
+        <item>只能凑合用，赶紧提升一下吧！</item>
+        <item>一般一般，世界第三！</item>
+        <item>好应用，力荐力荐！</item>
+        <item>该应用简直“神”来之作，强烈推荐！</item>
+    </string-array>
+    <string-array name="permission_array">
+        <item>此应用需要以下权限</item>
+        <item>显示隐藏的权限列表</item>
+    </string-array>
+    <string-array name="stars">
+        <item>5星</item>
+        <item>4星</item>
+        <item>3星</item>
+        <item>2星</item>
+        <item>1星</item>
+    </string-array>
+    <string-array name="status">
+        <item>安装</item>
+        <item>待安装</item>
+        <item>打开</item>
+        <item>已安装</item>
+    </string-array>
+    <integer-array name="searchColor">
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff5501</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff9600</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff5cad24</item>
+        <item>0xffff9600</item>
+        <item>0xffff5501</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff5501</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff5cad24</item>
+        <item>0xffff9600</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5cad24</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff5501</item>
+        <item>0xff5cad24</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xffff9600</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xff5cad24</item>
+        <item>0xffff9600</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5cad24</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff9600</item>
+        <item>0xff5cad24</item>
+        <item>0xffff5501</item>
+        <item>0xff5cad24</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff9600</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff5501</item>
+        <item>0xffff5501</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff5cad24</item>
+        <item>0xffff9600</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5e5e5e</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff5501</item>
+        <item>0xffff9600</item>
+        <item>0xff1f97d4</item>
+        <item>0xff5cad24</item>
+        <item>0xff1f97d4</item>
+        <item>0xffff5501</item>
+        <item>0xff5e5e5e</item>
+        <item>0xffff9600</item>
+    </integer-array>
+    <string-array name="comment_array1">
+        <item>用过，没啥感觉~</item>
+        <item>哎，不够给力啊~</item>
+        <item>就这样么？这个世界不会好了！</item>
+        <item>为什么放弃优化！应该会更好点的！</item>
+        <item>革命尚未成功，同志仍需努力！</item>
+    </string-array>
+    <string-array name="comment_array2">
+        <item>只能凑合用，赶紧提升下吧！</item>
+        <item>这个应用还行，还得多加加油啊！</item>
+        <item>继续优化，我看好你哟~</item>
+        <item>太2了，给你2星好了！</item>
+    </string-array>
+    <string-array name="comment_array3">
+        <item>一般一般，世界第三！</item>
+        <item>8错8错！</item>
+        <item>好苗子，有潜力！</item>
+        <item>离4星评分只差一步之遥</item>
+    </string-array>
+    <string-array name="comment_array4">
+        <item>好应用，必须力荐！</item>
+        <item>这应用太TM拉风了！</item>
+        <item>我ca！这应用太给力了！</item>
+        <item>这应用真是极好的！</item>
+        <item>泪奔！终于找到你了！</item>
+    </string-array>
+    <string-array name="comment_array5">
+        <item>该应用简直“神”来之作，强烈推荐！</item>
+        <item>传奇的惊世之作！</item>
+        <item>人类语言已经不能夸你了！</item>
+        <item>霸气好应用，你值得拥有！</item>
+        <item>怦然心动，一见钟情！</item>
+    </string-array>
+</resources>

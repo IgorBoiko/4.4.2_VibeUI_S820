@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_mode">
+        <item>正常显示图标和截图</item>
+        <item>仅在WLAN网络下加载图标和截图</item>
+        <item>在任何情况下都不加载图标和截图</item>
+    </string-array>
+    <string-array name="download_mode">
+        <item>退出应用后停止下载</item>
+        <item>退出应用后继续下载</item>
+    </string-array>
+    <string-array name="max_download">
+        <item>每次下载1个游戏</item>
+        <item>同时下载2个游戏</item>
+        <item>同时下载3个游戏</item>
+    </string-array>
+    <string-array name="feedback_type">
+        <item>意见建议</item>
+        <item>异常信息</item>
+    </string-array>
+    <string-array name="game_feedback">
+        <item>恶意扣费、病毒等安全问题</item>
+        <item>需要更新</item>
+        <item>下载失败</item>
+        <item>无法安装</item>
+        <item>运行出错</item>
+        <item>弹出广告</item>
+        <item>版权问题</item>
+        <item>游戏缺失</item>
+        <item>封建、色情、迷信</item>
+    </string-array>
+    <string-array name="game_rating">
+        <item>这个游戏不行，还得多加加油呀！</item>
+        <item>只能凑合用，赶紧提升一下吧！</item>
+        <item>一般一般，世界第三！</item>
+        <item>好游戏，力荐力荐！</item>
+        <item>该游戏简直是“神”来之作，强烈推荐！</item>
+    </string-array>
+</resources>

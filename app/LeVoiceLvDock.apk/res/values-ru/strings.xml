@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快捷语音</string>
+    <string name="sms_from">来自</string>
+    <string name="about_title">关于</string>
+    <string name="lv_dock_help_call">"\"打电话\"    \"打电话给小王\""</string>
+    <string name="lv_dock_help_send_sms">"\"发短信\"    \"发短信给小王\""</string>
+    <string name="lv_dock_help_read_sms">\"朗读未读短信\"</string>
+    <string name="lv_dock_help_contact">\"查找小王\"</string>
+    <string name="lv_dock_help_app">"\"打开微博\"    \"打开计算器\""</string>
+    <string name="lv_dock_help_system_settings">"\"屏幕变亮\"    \"打开无线\""</string>
+    <string name="not_le_phone_title">提示</string>
+    <string name="not_le_phone_content">仅限联想特定机型用户使用</string>
+    <string name="action_view_app_not_found">没有该应用，请重说</string>
+    <string name="action_view_app_found_one">找到一个应用，请选择</string>
+    <string name="action_view_app_found_two">找到两个应用，请选择</string>
+    <string name="action_view_app_found_more">找到%1$d个应用，请选择</string>
+    <string name="action_view_app_re_found">请选择，或重说应用名</string>
+    <string name="action_view_app_opening">正在打开</string>
+    <string name="action_view_autonavi_not_found">没有安装高德导航，请安装</string>
+    <string name="action_view_read_sms_no_unread">没有未读短信</string>
+    <string name="action_view_read_sms_no_inbox">您还没有短信</string>
+    <string name="action_view_no_missed_call">没有未接来电</string>
+    <string name="action_view_status_in_calling">通话中，不提供语音识别功能</string>
+    <string name="action_view_not_supported_in_car">车载中不支持长按MENU功能</string>
+    <string name="action_view_audio_command_tip">请说歌手或歌曲名</string>
+    <string name="action_view_audio_not_found">没有该歌曲，请说歌手或歌曲名</string>
+    <string name="action_view_audio_found_one">找到一首，马上打开</string>
+    <string name="action_view_audio_found_two">找到两首，马上打开</string>
+    <string name="action_view_audio_found_more">找到%1$d首，马上打开</string>
+    <string name="action_view_audio_re_found">没有找到，或重说歌曲或歌手</string>
+    <string name="action_view_audio_opening">正在打开</string>
+    <string name="action_view_music_player_not_found">没有安装音乐播放器，请安装</string>
+    <string name="action_view_music_empty_tts">没找到音乐文件</string>
+    <string name="action_view_music_empty">没找到音乐文件或音乐文件正在缓存中，请稍候重试</string>
+    <string name="action_view_music_too_large">由于音乐文件数量过大，为提高识别速度，只缓存了部分音乐文件</string>
+    <string name="action_view_contact_recent">最近联系人</string>
+    <string name="action_view_contact_not_found">没有该联系人，请重说</string>
+    <string name="action_view_contact_muti_not_found">没有听懂，请说第几个</string>
+    <string name="action_view_contact_found_one">找到一个号码，请选择</string>
+    <string name="action_view_contact_found_one_call">即将呼出%1$s的电话，如果要取消，请点击任意位置或说出“取消”。</string>
+    <string name="action_view_contact_found_two">找到两个号码，请选择</string>
+    <string name="action_view_contact_found_two_land">找到两个号码，请说第几个</string>
+    <string name="action_view_contact_found_two_land_tts">找到两个号码，%1$s，请说第几个</string>
+    <string name="action_view_contact_found_more">找到%1$d个号码，请选择</string>
+    <string name="action_view_contact_found_more_land">找到%1$d个号码，请说第几个</string>
+    <string name="action_view_contact_found_more_land_tts">找到%1$d个号码，%2$s，请说第几个</string>
+    <string name="action_view_contact_re_found">请选择联系人，或点击重说</string>
+    <string name="action_view_contact_empty_tts">没有获取到联系人列表</string>
+    <string name="action_view_contact_empty">没有获取到联系人列表，请检查应用权限或通讯录</string>
+    <string name="action_view_contact_not_exist">没有找到该联系人，可能已经被删除</string>
+    <string name="action_view_sim_select">有两个SIM卡，一%1$s；二%2$s；请说第几个</string>
+    <string name="action_view_sim_select_error">您的说法不支持，请说第几个</string>
+    <string name="action_view_call_sim_disabled">通话主卡不可用，呼叫失败</string>
+    <string name="action_view_call_canceled">已取消</string>
+    <string name="action_view_sms_sended">发送成功</string>
+    <string name="action_view_sms_canceled">已取消</string>
+    <string name="action_view_sms_select_sim">有两个SIM卡，请选择</string>
+    <string name="action_view_sms_sim_disabled">短信主卡不可用，发送失败，短信已保存草稿。</string>
+    <string name="action_view_sms_sim_disable">（不可用）</string>
+    <string name="action_view_sms_hint">请编写短信内容</string>
+    <string name="action_view_sms_air_plane">飞行模式下无法发送信息</string>
+    <string name="action_view_sms_no_sim">没有检查到SIM卡，不能发送信息</string>
+    <string name="action_view_sms_no_content">您还没有输入任何内容</string>
+    <string name="action_view_send_button">发 送</string>
+    <string name="action_view_cancel_button">取 消</string>
+    <string name="action_view_stop_button">点击停止</string>
+    <string name="action_view_levoice_button">去乐语音体验更多功能</string>
+    <string name="action_view_tip_call_sim">即将通过SIM卡%1$s打电话给%2$s</string>
+    <string name="action_view_tip_calling">即将打电话给%1$s</string>
+    <string name="action_view_tip_sms_content">短信内容是%1$s</string>
+    <string name="action_view_tip_sms_sending">即将发信息给%1$s</string>
+    <string name="action_view_tip_sms_sending_content">, 内容是：</string>
+    <string name="action_view_tip_sms_recognizing">马上为您识别</string>
+    <string name="action_view_tip_sms_editing_empty">请说短信内容</string>
+    <string name="action_view_tip_sms_editing">请说“发送”或“取消”</string>
+    <string name="action_view_tip_sms_editing_tts">请继续说短信内容，或者说发送或取消</string>
+    <string name="action_view_tip_sms_format">给%1$s发短信</string>
+    <string name="action_view_tip_sms_no_wifi">没有网络，请使用键盘输入</string>
+    <string name="action_view_tip_sms_no_allow_license">没有同意联想体验计划，无法使用网络，请使用键盘输入</string>
+    <string name="action_view_tip_sms_no_wifi_short">没有检测到网络</string>
+    <string name="action_view_tip_sms_not_support">没有网络，不支持语音发短信</string>
+    <string name="action_view_tip_sms_edit_error">识别失败，请重说</string>
+    <string name="action_view_tip_call">请说联系人名称</string>
+    <string name="action_view_tip_sms">请说联系人名称</string>
+    <string name="action_view_tip_call_cancel">请说“取消”</string>
+    <string name="action_view_tip_sms2">给张三发短信</string>
+    <string name="action_view_tip_contact">请说联系人名称</string>
+    <string name="action_view_tip_contact_multi">请说第几个</string>
+    <string name="action_view_tip_app">请说应用名称</string>
+    <string name="action_view_tip_main_land">"\"打电话\"　　　\"打电话给%1$s\"
+\"发短信\"　　　\"发短信给%1$s\"
+\"打开导航\"　　\"播放音乐\""</string>
+    <string name="action_view_tip_main">"可 以 说：
+打 电 话
+发 短 信
+打 电 话 给 小 王
+发 短 信 给 小 王
+查 看 小 王 的 电 话
+打 开 微 博
+开 启 无 线
+屏 幕 变 亮
+朗 读 未 读 短 信"</string>
+    <string name="action_view_tip_contact0">"可 以 说：
+小 王
+打 电 话
+打 电 话 给 小 王
+发 短 信
+发 短 信 给 小 王
+查 看 小 王(的 电 话)"</string>
+    <string name="action_view_tip_contact1">"可 以 说：
+小 王
+查 看 小 王(的 电 话)
+打 电 话
+打 电 话 给 小 王
+发 短 信
+发 短 信 给 小 王"</string>
+    <string name="action_view_tip_contact2">"可 以 说：
+小 王
+发 短 信
+发 短 信 给 小 王
+打 电 话
+打 电 话 给 小 王
+查 看 小 王(的 电 话)"</string>
+    <string name="action_view_tip_contact3">"可 以 说：
+打 电 话
+发 短 信
+查 看 小 王(的 电 话)"</string>
+    <string name="action_view_tip_contact4">"可 以 说：
+打 电 话
+打 电 话 给 小 王
+发 短 信
+发 短 信 给 小 王
+查 看 小 王(的 电 话)"</string>
+    <string name="action_view_tip_navi">"可 以 说：
+我 要 回 家
+回 家
+回 公 司
+我 要 回 公 司
+去 公 司
+打 开 路 况
+开 启 路 况"</string>
+    <string name="action_view_tip_navi_land">"我要回家　　　回家　　　回公司
+我要回公司　　去公司
+打开路况　　　开启路况"</string>
+    <string name="action_view_tip_music">请说歌手或歌曲名</string>
+    <string name="action_view_tip_read">"可 以 说：
+朗 读 短 信
+查 看 短 信
+朗 读 未 读 短 信
+查 看 未 读 短 信
+查 看 未 接 来 电"</string>
+    <string name="action_view_tip_website">请说出要打开的网站</string>
+    <string name="action_view_tip_tts_open">语音播报已开启</string>
+    <string name="action_view_tip_tts_closed">语音播报已关闭</string>
+    <string name="action_view_tip_tts_main">请说指令</string>
+    <string name="action_view_tip_tts_main_help">请说指令</string>
+    <string name="action_view_tip_tts_main_land">您有什么需要？</string>
+    <string name="action_view_tip_tts_navi">请说导航指令</string>
+    <string name="action_view_unlock_screan">请先解锁</string>
+    <string name="action_view_open_screan">请先滑开屏幕</string>
+    <string name="action_view_tip_help">帮助</string>
+    <string name="action_view_main_starting">正在启动，请在听到“嘀”声后说话</string>
+    <string name="action_view_volume_tip_title">友情提示</string>
+    <string name="action_view_volume_tip_message">您当前媒体音量为零，会影响到语音功能及播报功能的使用。建议您开启媒体音。</string>
+    <string name="action_view_volume_tip_button">我知道了</string>
+    <string name="action_view_main_tts_tip_error">没有听懂，请说如下语句</string>
+    <string name="action_view_main_tts_tip_error_land">没有听懂，请说打电话、发短信等</string>
+    <string name="action_view_main_tip_error_prefix">没有听懂，您可以说如下语句，</string>
+    <string name="action_view_ERROR_AUDIO">麦克风被占用，请您先关闭录音软件</string>
+    <string name="action_view_ERROR_CLIENT">没有听懂，请重说</string>
+    <string name="action_view_ERROR_NETWORK">网络繁忙，请稍后重试</string>
+    <string name="action_view_ERROR_NETWORK_TIMEOUT">网络繁忙，请稍后重试</string>
+    <string name="action_view_ERROR_RECOGNIZER_BUSY">系统繁忙，请稍后重试</string>
+    <string name="action_view_ERROR_SERVER">系统繁忙，请稍后重试</string>
+    <string name="action_view_ERROR_SPEECH_TIMEOUT">没有听到您的声音，请重说</string>
+    <string name="action_view_ERROR_INSUFFICIENT_PERMISSIONS">系统繁忙，请稍后重试</string>
+    <string name="action_view_RECOGINITION_SERVICE_ERROR_TIMEOUT">网络繁忙，请稍后重试</string>
+    <string name="action_view_SERVICE_ERROR_REJECT">没有听懂，请重说</string>
+    <string name="action_view_SERVICE_ERROR_UNKNOWN">没有听懂，请重说</string>
+    <string name="action_view_ERROR_NO_MATCH">没有听懂，请重说</string>
+    <string name="action_view_ERROR_RETRY">请重说</string>
+    <string name="action_view_ERROR_CLICK_RETRY">请点击重说</string>
+    <string name="wireless_has_been_opened">无线即将打开</string>
+    <string name="wireless_has_been_closed">无线已关闭</string>
+    <string name="bluetooth_has_been_opened">蓝牙即将打开</string>
+    <string name="bluetooth_has_been_closed">蓝牙已关闭</string>
+    <string name="bluetooth_operation_cancled">操作取消</string>
+    <string name="mobile_network_has_been_opened">移动网络即将打开</string>
+    <string name="mobile_network_has_been_closed">移动网络已关闭</string>
+    <string name="data_push_has_been_opened">推送即将打开</string>
+    <string name="data_push_has_been_closed">推送已关闭</string>
+    <string name="screen_is_the_maximum_brightness">屏幕已是最大亮度</string>
+    <string name="screen_brightness">屏幕变亮</string>
+    <string name="screen_is_the_minimum_brightness">屏幕已是最小亮度</string>
+    <string name="screen_brightness_down">屏幕变暗</string>
+    <string name="screen_brightness_turnoff_automode">请在设置中先关闭自动亮度调节功能</string>
+    <string name="airplane_mode_has_been_opened">飞行模式已打开</string>
+    <string name="airplane_mode_has_been_closed">飞行模式已关闭</string>
+    <string name="can_not_setting_wifi">飞行模式下无法进行无线设置，请更改设置后重试</string>
+    <string name="can_not_setting_gprs">飞行模式下无法进行移动网络设置，请更改设置后重试</string>
+    <string name="can_not_setting_gprs_no_sim">未检测到Sim卡，无法进行移动网络设置</string>
+    <string name="can_not_setting_bluetooth">飞行模式下无法进行蓝牙设置，请更改设置后重试</string>
+    <string name="fly_mode_is_openning">为您开启飞行模式</string>
+    <string name="fly_mode_is_closing">为您关闭飞行模式</string>
+    <string name="fly_mode_has_been_opened">飞行模式已是开启状态</string>
+    <string name="fly_mode_has_been_closed">飞行模式已是关闭状态</string>
+    <string name="wifi_is_opening">为您开启无线</string>
+    <string name="wifi_is_closing">为您关闭无线</string>
+    <string name="wifi_has_been_opened">无线已是开启状态</string>
+    <string name="wifi_has_been_closed">无线已是关闭状态</string>
+    <string name="wifi_is_disable_4_wlan_hot">热点已开启，无法设置无线状态</string>
+    <string name="bluetooth_is_opening">为您开启蓝牙</string>
+    <string name="bluetooth_is_closing">为您关闭蓝牙</string>
+    <string name="bluetooth_has_been_opened1">蓝牙已是开启状态</string>
+    <string name="bluetooth_has_been_closed1">蓝牙已是关闭状态</string>
+    <string name="gprs_is_opening">为您开启移动网络</string>
+    <string name="gprs_is_closing">为您关闭移动网络</string>
+    <string name="gprs_has_been_opened">移动网络已是开启状态</string>
+    <string name="gprs_has_been_closed">移动网络已是关闭状态</string>
+    <string name="push_is_opening">为您开启推送</string>
+    <string name="push_is_closing">为您关闭推送</string>
+    <string name="push_has_been_opened">推送已是开启状态</string>
+    <string name="push_has_been_closed">推送已是关闭状态</string>
+    <string name="screen_brightness_is_increasing">为您提高亮度</string>
+    <string name="screen_brightness_is_descreasing">为您降低亮度</string>
+    <string name="screen_brightness_is_max">已是最大亮度</string>
+    <string name="screen_brightness_is_min">已是最小亮度</string>
+    <string name="phone_profile_is_setting_standard">为您开启标准模式</string>
+    <string name="phone_profile_is_setting_silence">为您开启静音模式</string>
+    <string name="phone_profile_is_setting_vibrate">为您开启振动模式</string>
+    <string name="phone_profile_is_setting_outdoors">为您开启户外模式</string>
+    <string name="phone_profile_is_standard">已是标准模式</string>
+    <string name="phone_profile_is_silence">已是静音模式</string>
+    <string name="phone_profile_is_vibrate">已是振动模式</string>
+    <string name="phone_profile_is_outdoors">已是户外模式</string>
+    <string name="unsupport_phone_profile">该手机型号不支持设置情景模式</string>
+    <string name="multi_sim_select_tip">请选择SIM卡</string>
+    <string name="network_operator_name_cmcc">中国移动</string>
+    <string name="network_operator_name_unicom">中国联通</string>
+    <string name="network_operator_name_ctc">中国电信</string>
+    <string name="network_operator_name_unknown">未知</string>
+    <string name="license_title">使用提示</string>
+    <string name="license_content1">您可以使用语音命令打电话、发短信、打开应用。</string>
+    <string name="license_content2">使用过程中可能联网，由此产生的数据流量费用由运营商收取。为了提高联系人姓名的识别准确率，本软件会读取您的联系人姓名列表。本软件不会上传、存储您的联系人号码，请放心使用。</string>
+    <string name="license_dont_show">以后不再提示</string>
+    <string name="license_agree">同意并开始使用</string>
+    <string name="license_exit">退出</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Open WLAN please!</string>
+    <string name="SUS_MSG_LATESTVERSION">The version is current!</string>
+    <string name="SUS_MSG_NOTFOUND">No updates!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Network not available!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Currently updating!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download finished!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Update failed. Please try again!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Don’t prompt</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Prompt when new version found</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Insufficient storage!</string>
+    <string name="SUS_VERSIONUPDATE">New version found!</string>
+    <string name="SUS_UPDATEDESC">Description:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Size:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN recommended for download!</string>
+    <string name="SUS_UPDATE">Update</string>
+    <string name="SUS_CANCEL">Later</string>
+    <string name="SUS_DOWNLOAD_TITLE">Voice downloading</string>
+    <string name="SUS_CANCELBUTTON">Cancel</string>
+    <string name="SUS_NOTIFICATION_TITLE">Prompt</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Updating… Please wait!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Network timeout. Trying again...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">I know</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abort</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(This window will hide after</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Please tap to install!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Please tap to install:</string>
+</resources>

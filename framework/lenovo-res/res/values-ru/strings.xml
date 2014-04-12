@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lsr_window_smart_rolled_toast">Window is smart rolled</string>
+    <string name="lsr_window_not_support_smart_rolled_toast">"Window doesn't support smart roll"</string>
+    <string name="lwt_description_target_back">back</string>
+    <string name="lwt_description_target_home">home</string>
+    <string name="lwt_description_target_menu">menu</string>
+    <string name="lwt_description_target_status_bar">status_bar</string>
+    <string name="dlg_use_ipo_confirm">Quick bootup at next booting</string>
+    <string name="dlg_ipo_confirm_warning">In the fast boot mode, the system is not completely powered off, please do not plug the SIM card or memory card in this state that may damage to the card.</string>
+    <string name="storage_sd_card">external storage</string>
+    <string name="storage_usb">USB storage</string>
+    <string name="storage_phone">built-in storage</string>
+    <string name="storage_external_usb">External USB storage</string>
+    <string name="ext_storage_internal_notification_title">Preparing Internal Storage</string>
+    <string name="ext_storage_external_notification_title">Preparing External Storage</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Open airplane mode</string>
+    <string name="usb_notification_title">USB Connection Settings</string>
+    <string name="usb_notification_content">Select usb mount mode and adb debug.</string>
+    <string name="default_string">Default</string>
+    <string name="capital_on">ON</string>
+    <string name="capital_off">OFF</string>
+    <string name="kg_forgot_password_button_text">Forgot Password</string>
+    <string name="msg_shutdown_habit_guess">"Recently, you have shutdown device three times during this time. 
+Do you need to go the schedule power on-off settings?"</string>
+    <string name="global_action_reboot">Reboot</string>
+    <string name="reboot_confirm_title">Reboot</string>
+    <string name="reboot_confirm_msg">Your handset will reboot</string>
+    <string name="reboot_dialog_msg">"Press power key to shutdown after ^1 seconds. 
+Continue to press with 2 seconds for reboot after shutdown"</string>
+    <string name="silent_mode_silent">Silent</string>
+    <string name="silent_mode_vibrate">Vibration</string>
+    <string name="silent_mode_normal">General</string>
+    <string name="silent_mode_outdoor">Outdoor</string>
+    <string name="powerOnWarning_alarm_msg">Next AlarmClock: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Next PowerOn: %1$s</string>
+    <string name="long_back_exit_info">exit</string>
+    <string name="prevent_misoperation_title">Misoperation prevent mode</string>
+    <string name="prevent_misoperation_message">"Don't cover the top of screen"</string>
+    <string name="prevent_misoperation_quit_hint">Force to quit: pressing \"Back\" + \"Volume Up\" key</string>
+    <string name="captive_portal_dialog_title">Sign into WLAN network</string>
+    <string name="captive_portal_dialog_message">Sign-in is requested for current WLAN network before accessing internet, please sign in first</string>
+    <string name="captive_portal_dialog_button">Sign in</string>
+    <string name="invalid_wlan_dialog_title">WLAN</string>
+    <string name="invalid_wlan_dialog_message">There are some problems with internet connection, please check current WLAN network or connect to other WLAN network</string>
+    <string name="invalid_wlan_dialog_button">Connect to other WLAN network</string>
+    <string name="volume_icon_description_ringer">Ringtone and Message</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Call</string>
+    <string name="volume_alarm">Alarm</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">Mobile TV</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Notification</string>
+    <string name="not_support_too_long_string">Not support to search too long string</string>
+    <string name="turn_on_mobile_data_warning">"Turn on data connection, mobile phone will use some GPRS data. 
+The specific charges is up to operators. Are you sure to open?"</string>
+    <string name="next_time_no_warning">"Don't warn next time."</string>
+    <string name="turn_on_data">Turn on</string>
+    <string name="turn_off_data">Turn off</string>
+    <string name="confirm_dialog_title">Confirm</string>
+    <string name="keyguard_password_waring_dlg_title">Wrong password</string>
+    <string name="keyguard_password_attempts_warning" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="keyguard_password_waring_dlg_remind">Please enter lenovo and click OK to continue.</string>
+    <string name="keyguard_password_dlg_input_err">Input errors, please try again</string>
+    <string name="popup_menu_find">Find</string>
+    <string name="wifi_display_bt_hdmi_off_wfd_on">Bluetooth will be turned off when you turn on wireless display. Do you want to continue?</string>
+    <string name="component">systemwidget</string>
+    <string name="author">Lenovo author</string>
+    <string name="description">Lenovo default theme</string>
+    <string name="app_name">Classical</string>
+</resources>

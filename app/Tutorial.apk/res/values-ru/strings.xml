@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Players Tutorial</string>
+    <string name="action_update">Check update</string>
+    <string name="action_about">About</string>
+    <string name="dlg_title_notice">Tip</string>
+    <string name="dlg_title_update">New version reminder</string>
+    <string name="dlg_title_download">Download</string>
+    <string name="dlg_title_install">Extract</string>
+    <string name="dlg_msg_no_network_connection">You are not connected to the Internet. Please check the network configuration</string>
+    <string name="dlg_msg_first_init">Initializing data...</string>
+    <string name="dlg_msg_first_update">You have not updated data in a long time. Check for a new version?</string>
+    <string name="dlg_msg_check_data">Checking for the latest version info on the server...</string>
+    <string name="dlg_msg_check_data_success">"There is a new version: %s.
+Update now?"</string>
+    <string name="dlg_msg_install_data">Extracting latest version of data. Please wait...</string>
+    <string name="notify_dwonloading_data">Downloading latest version of data...</string>
+    <string name="toast_no_network_connection">Network currently unavailable. Cannot update.</string>
+    <string name="toast_check_data_newest">You are already using the latest version of data.</string>
+    <string name="toast_check_data_failed">Update check failed. Please try again later.</string>
+    <string name="toast_downloading_data">Downloading latest version of data...</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="version_str">Version No.:</string>
+    <string name="about_dialog_notice">As the product features are updated continuously, the tutorial may not accurately reflect the actual operation. Please update the tutorial and related apps promptly.</string>
+</resources>

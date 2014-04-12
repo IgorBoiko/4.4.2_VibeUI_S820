@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/drawable-hdpi/ic_search_category_folder.png
+SHA1-Digest: HPb+FphuOV4jnhbihxdcaJfqHu8=
+
+Name: res/drawable-hdpi/ic_search_category_video.png
+SHA1-Digest: P4S0iGZGu2jHC4+u1P/wAw+teDg=
+
+Name: res/drawable-hdpi/ic_search_category_others.png
+SHA1-Digest: TemVfbmjUOwipaJ6Rs0qskzMOr8=
+
+Name: res/drawable-hdpi/ic_search_category_text.png
+SHA1-Digest: I1HAQZQVF3oc1kQ7H9QPyw2KNHg=
+
+Name: res/mipmap-hdpi/ic_launcher_gallery.png
+SHA1-Digest: ERoXCfjryCtXNOhzWgK58RqnsiE=
+
+Name: res/mipmap-xhdpi/ic_launcher_gallery.png
+SHA1-Digest: EE06tu514ZjLAceHMzqTn9dyNpA=
+
+Name: resources.arsc
+SHA1-Digest: MDwOqQP/GDn9AnvgbXtbZX3YETQ=
+
+Name: classes.dex
+SHA1-Digest: 2isJ1kkOiUcW/ehn8xJlb4hw7WU=
+
+Name: res/drawable-hdpi/ic_search_category_music_artist.png
+SHA1-Digest: HwDnoSWh+6w8hFGJEqTWyS+wYF8=
+
+Name: res/drawable-hdpi/ic_search_category_image.png
+SHA1-Digest: nK373cGJU2Rm7OjSwxCvALGVDRg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: S2d3aiwiXsxJG+G8bJ9WWuXJszQ=
+
+Name: res/drawable-hdpi/ic_search_category_audio.png
+SHA1-Digest: CXe0POrt4TjfZYvO87UvmbK3jaM=
+
+Name: res/drawable-hdpi/ic_search_category_zip.png
+SHA1-Digest: qmX2pYV7DqBfVN21GUiIQ7/fAVY=
+
+Name: res/drawable-hdpi/ic_search_category_apk.png
+SHA1-Digest: I3pemFoi61Ibwuw78+KZu7dF/zk=
+
+Name: res/mipmap-mdpi/ic_launcher_gallery.png
+SHA1-Digest: W15ZLMSRFD9rmfYvfsS7/YG8b3U=
+
+Name: res/drawable-hdpi/ic_search_category_music_album.png
+SHA1-Digest: ut2RGDGufwISyuVLR+KnPuWkBlU=
+
+Name: res/drawable-hdpi/ic_search_category_music_song.png
+SHA1-Digest: 5HQXCMKtJc6Mnc9C593LRGxwJFc=
+

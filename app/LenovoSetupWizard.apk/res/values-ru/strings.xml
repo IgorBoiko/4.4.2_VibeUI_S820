@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setupwizard</string>
+    <string name="last">Previous</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="title_act_language">Language</string>
+    <string name="title_act_connect">Mobile Data</string>
+    <string name="tilte_act_brightness">Brightness</string>
+    <string name="title_act_volume">Volume</string>
+    <string name="title_act_ringtone">Ringtone</string>
+    <string name="title_act_server">Server</string>
+    <string name="brightness_auto_label">Auto</string>
+    <string name="volume_ring_mms">Ringtone and Message</string>
+    <string name="volume_media">Media(Music/Video/Games,etc)</string>
+    <string name="volume_alarm">Alarm</string>
+    <string name="ringtone_select_title">Ringtone</string>
+    <string name="ringtone_select_summary">select a ringtone for your phone</string>
+    <string name="ringtone_picker_title">Select Ringtone</string>
+    <string name="ringtone_audio_profile_slot_1">Slot 1</string>
+    <string name="ringtone_audio_profile_slot_2">Slot 2</string>
+    <string name="server_lenovo_id_title">Agree to register Lenovo ID</string>
+    <string name="server_lenovo_id_summery">With phone number as your Lenovo ID, you can enjoy Lenovo related services.</string>
+    <string name="server_lenovo_exp_title">Agree to participate in the Lenovo Experience Program</string>
+    <string name="server_lenovo_exp_summery">Collect data to improve our product and service.</string>
+    <string name="server_lenovo_exp_span_text">Learn more</string>
+    <string name="server_lenovo_exp_dialog_title">Warn</string>
+    <string name="server_lenovo_exp_warn">Cancel Lenovo experience programs, will cause some applications do not work correctly, and reduce product services and programs, make sure you cancel?</string>
+    <string name="server_lenovo_exp_ok">Ok</string>
+    <string name="server_lenovo_exp_cancel">Cancel</string>
+    <string name="gemini_data_connection_progress_message">Please wait...</string>
+    <string name="connect_data_title">Data connection</string>
+    <string name="connect_data_summary">Using SIM card Internet Access,if service is on, will have certain to data traffic.</string>
+    <string name="gemini_3g_indic">3G</string>
+    <string name="gemini_default_sim_never">Off</string>
+    <string name="mobile">Data conn</string>
+</resources>
