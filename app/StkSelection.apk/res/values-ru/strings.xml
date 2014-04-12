@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">USIM Toolkit</string>
-    <string name="activity_not_found">Application is not installed on your phone.</string>
-    <string name="simlock_toolkit">USIM Toolkit</string>
-    <string name="no_sim_card_inserted">Please insert USIM to launch USIM Toolkit.</string>
-    <string name="airplane_mode_on">Unable to launch USIM Toolkit since airplane mode is on.</string>
-    <string name="lable_sim_not_ready">USIM Toolkit is not ready or unsupported</string>
-</resources>

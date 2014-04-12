@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="city_oper_items">
-        <item>Уст-ть как город по умолчанию</item>
-        <item>Удалить этот город</item>
-    </string-array>
-</resources>
