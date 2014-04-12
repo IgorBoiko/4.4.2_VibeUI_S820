@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="UMageList">
+        <item>Age</item>
+        <item>0-18 years old</item>
+        <item>18-24 years old</item>
+        <item>25-30 years old</item>
+        <item>31-35 years old</item>
+        <item>36-40 years old</item>
+        <item>41-50 years old</item>
+        <item>51-59 years old</item>
+        <item>over 60 years old</item>
+    </string-array>
+    <string-array name="UMgenderList">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

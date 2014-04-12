@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="notify_title">Я знаю</string>
+    <string name="get_device_error">Сбой при доступе к устройству. Возможно, вспышка камеры занята. Проверьте и повторите попытку.</string>
+    <string name="notify_destory">На экране блокировки нажмите и удерживайте клавишу HOME для включения вспышки</string>
+    <string name="notify_start">При долгом использовании потребляется больше энергии аккумулятора</string>
+    <string name="notify">Подсказка</string>
+</resources>
